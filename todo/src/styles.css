@@ -1,5 +1,5 @@
 body {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Montserrat', sans-serif;
   }
   
   .btn-wrapper {
@@ -15,10 +15,13 @@ body {
     border: 2px solid #cecece;
     padding: 0.35rem 1rem 0.25rem 1rem;
     font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
   }
   
   .btn:hover {
     background-color: #ecf2fd;
+    font-weight: bold;
+
   }
   
   .btn:active {
@@ -32,7 +35,7 @@ body {
   
   .btn-primary {
     color: #fff;
-    background-color: #000;
+    background-color: #5e4957;
     width: 100%;
     padding: 0.75rem;
     font-size: 1.3rem;
